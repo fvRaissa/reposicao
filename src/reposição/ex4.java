@@ -30,7 +30,7 @@ public class ex4 {
             }
         }
 
-        // Copia os únicos para um vetor do tamanho certo
+       
         int[] resultado = new int[novoTamanho];
         for (int i = 0; i < novoTamanho; i++) {
             resultado[i] = temp[i];
